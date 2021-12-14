@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ProductReviewManagement_UC1(Linq)/1.0.0": {
+        "runtime": {
+          "ProductReviewManagement_UC1(Linq).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProductReviewManagement_UC1(Linq)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

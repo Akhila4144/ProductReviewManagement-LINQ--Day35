@@ -1,0 +1,14 @@
+C:\Users\Raj Nani\source\repos\ProductReviewManagement_UC1(Linq)\ProductReviewManagement_UC1(Linq)\bin\Debug\netcoreapp3.1\ProductReviewManagement_UC1(Linq).exe
+C:\Users\Raj Nani\source\repos\ProductReviewManagement_UC1(Linq)\ProductReviewManagement_UC1(Linq)\bin\Debug\netcoreapp3.1\ProductReviewManagement_UC1(Linq).deps.json
+C:\Users\Raj Nani\source\repos\ProductReviewManagement_UC1(Linq)\ProductReviewManagement_UC1(Linq)\bin\Debug\netcoreapp3.1\ProductReviewManagement_UC1(Linq).runtimeconfig.json
+C:\Users\Raj Nani\source\repos\ProductReviewManagement_UC1(Linq)\ProductReviewManagement_UC1(Linq)\bin\Debug\netcoreapp3.1\ProductReviewManagement_UC1(Linq).runtimeconfig.dev.json
+C:\Users\Raj Nani\source\repos\ProductReviewManagement_UC1(Linq)\ProductReviewManagement_UC1(Linq)\bin\Debug\netcoreapp3.1\ProductReviewManagement_UC1(Linq).dll
+C:\Users\Raj Nani\source\repos\ProductReviewManagement_UC1(Linq)\ProductReviewManagement_UC1(Linq)\bin\Debug\netcoreapp3.1\ProductReviewManagement_UC1(Linq).pdb
+C:\Users\Raj Nani\source\repos\ProductReviewManagement_UC1(Linq)\ProductReviewManagement_UC1(Linq)\obj\Debug\netcoreapp3.1\ProductReviewManagement_UC1(Linq).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj Nani\source\repos\ProductReviewManagement_UC1(Linq)\ProductReviewManagement_UC1(Linq)\obj\Debug\netcoreapp3.1\ProductReviewManagement_UC1(Linq).AssemblyInfoInputs.cache
+C:\Users\Raj Nani\source\repos\ProductReviewManagement_UC1(Linq)\ProductReviewManagement_UC1(Linq)\obj\Debug\netcoreapp3.1\ProductReviewManagement_UC1(Linq).AssemblyInfo.cs
+C:\Users\Raj Nani\source\repos\ProductReviewManagement_UC1(Linq)\ProductReviewManagement_UC1(Linq)\obj\Debug\netcoreapp3.1\ProductReviewManagement_UC1(Linq).csproj.CoreCompileInputs.cache
+C:\Users\Raj Nani\source\repos\ProductReviewManagement_UC1(Linq)\ProductReviewManagement_UC1(Linq)\obj\Debug\netcoreapp3.1\ProductReviewManagement_UC1(Linq).dll
+C:\Users\Raj Nani\source\repos\ProductReviewManagement_UC1(Linq)\ProductReviewManagement_UC1(Linq)\obj\Debug\netcoreapp3.1\ProductReviewManagement_UC1(Linq).pdb
+C:\Users\Raj Nani\source\repos\ProductReviewManagement_UC1(Linq)\ProductReviewManagement_UC1(Linq)\obj\Debug\netcoreapp3.1\ProductReviewManagement_UC1(Linq).genruntimeconfig.cache
+C:\Users\Raj Nani\source\repos\ProductReviewManagement_UC1(Linq)\ProductReviewManagement_UC1(Linq)\obj\Debug\netcoreapp3.1\ProductReviewManagement_UC1(Linq).csproj.AssemblyReference.cache
