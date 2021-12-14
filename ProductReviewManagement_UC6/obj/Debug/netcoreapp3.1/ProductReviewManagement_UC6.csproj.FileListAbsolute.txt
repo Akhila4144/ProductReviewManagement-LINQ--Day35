@@ -1,0 +1,14 @@
+C:\Users\Raj Nani\source\repos\ProductReviewManagement_UC6\ProductReviewManagement_UC6\bin\Debug\netcoreapp3.1\ProductReviewManagement_UC6.exe
+C:\Users\Raj Nani\source\repos\ProductReviewManagement_UC6\ProductReviewManagement_UC6\bin\Debug\netcoreapp3.1\ProductReviewManagement_UC6.deps.json
+C:\Users\Raj Nani\source\repos\ProductReviewManagement_UC6\ProductReviewManagement_UC6\bin\Debug\netcoreapp3.1\ProductReviewManagement_UC6.runtimeconfig.json
+C:\Users\Raj Nani\source\repos\ProductReviewManagement_UC6\ProductReviewManagement_UC6\bin\Debug\netcoreapp3.1\ProductReviewManagement_UC6.runtimeconfig.dev.json
+C:\Users\Raj Nani\source\repos\ProductReviewManagement_UC6\ProductReviewManagement_UC6\bin\Debug\netcoreapp3.1\ProductReviewManagement_UC6.dll
+C:\Users\Raj Nani\source\repos\ProductReviewManagement_UC6\ProductReviewManagement_UC6\bin\Debug\netcoreapp3.1\ProductReviewManagement_UC6.pdb
+C:\Users\Raj Nani\source\repos\ProductReviewManagement_UC6\ProductReviewManagement_UC6\obj\Debug\netcoreapp3.1\ProductReviewManagement_UC6.csproj.AssemblyReference.cache
+C:\Users\Raj Nani\source\repos\ProductReviewManagement_UC6\ProductReviewManagement_UC6\obj\Debug\netcoreapp3.1\ProductReviewManagement_UC6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj Nani\source\repos\ProductReviewManagement_UC6\ProductReviewManagement_UC6\obj\Debug\netcoreapp3.1\ProductReviewManagement_UC6.AssemblyInfoInputs.cache
+C:\Users\Raj Nani\source\repos\ProductReviewManagement_UC6\ProductReviewManagement_UC6\obj\Debug\netcoreapp3.1\ProductReviewManagement_UC6.AssemblyInfo.cs
+C:\Users\Raj Nani\source\repos\ProductReviewManagement_UC6\ProductReviewManagement_UC6\obj\Debug\netcoreapp3.1\ProductReviewManagement_UC6.csproj.CoreCompileInputs.cache
+C:\Users\Raj Nani\source\repos\ProductReviewManagement_UC6\ProductReviewManagement_UC6\obj\Debug\netcoreapp3.1\ProductReviewManagement_UC6.dll
+C:\Users\Raj Nani\source\repos\ProductReviewManagement_UC6\ProductReviewManagement_UC6\obj\Debug\netcoreapp3.1\ProductReviewManagement_UC6.pdb
+C:\Users\Raj Nani\source\repos\ProductReviewManagement_UC6\ProductReviewManagement_UC6\obj\Debug\netcoreapp3.1\ProductReviewManagement_UC6.genruntimeconfig.cache
