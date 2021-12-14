@@ -1,0 +1,5 @@
+C:\Users\Raj Nani\source\repos\ProductReviewManagementUC_9\ProductReviewManagementUC_9\obj\Debug\netcoreapp3.1\ProductReviewManagementUC_9.csproj.AssemblyReference.cache
+C:\Users\Raj Nani\source\repos\ProductReviewManagementUC_9\ProductReviewManagementUC_9\obj\Debug\netcoreapp3.1\ProductReviewManagementUC_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj Nani\source\repos\ProductReviewManagementUC_9\ProductReviewManagementUC_9\obj\Debug\netcoreapp3.1\ProductReviewManagementUC_9.AssemblyInfoInputs.cache
+C:\Users\Raj Nani\source\repos\ProductReviewManagementUC_9\ProductReviewManagementUC_9\obj\Debug\netcoreapp3.1\ProductReviewManagementUC_9.AssemblyInfo.cs
+C:\Users\Raj Nani\source\repos\ProductReviewManagementUC_9\ProductReviewManagementUC_9\obj\Debug\netcoreapp3.1\ProductReviewManagementUC_9.csproj.CoreCompileInputs.cache
